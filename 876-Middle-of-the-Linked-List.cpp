@@ -11,11 +11,9 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        vector<int> v;
         ListNode* temp=head;
         int c=0;
         while(head!=NULL){
-                v.push_back(head->val);
                 head=head->next;
                 c++;
         }
