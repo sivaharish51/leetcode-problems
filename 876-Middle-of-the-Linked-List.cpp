@@ -25,11 +25,11 @@ public:
         
         ListNode* ans=new ListNode();
         ListNode* t=ans;
-        while(temp!=NULL){
-            t->next=new ListNode(temp->val);
-            temp=temp->next;
-            t=t->next;
-        }
-        return ans->next;  
+        // while(temp!=NULL){
+        //     t->next=new ListNode(temp->val);
+        //     temp=temp->next;
+        //     t=t->next;
+        // }
+        return temp;  
     }
 };
