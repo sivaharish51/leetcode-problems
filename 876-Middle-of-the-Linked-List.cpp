@@ -19,11 +19,15 @@ public:
                 head=head->next;
                 c++;
         }
+        for(int i=0;i<c/2;i++){
+            temp=temp->next;
+        }
         
         ListNode* ans=new ListNode();
         ListNode* t=ans;
-        for(int i=v.size()/2;i<v.size();i++){
-            t->next=new ListNode(v[i]);
+        while(temp!=NULL){
+            t->next=new ListNode(temp->val);
+            temp=temp->next;
             t=t->next;
         }
         return ans->next;  
