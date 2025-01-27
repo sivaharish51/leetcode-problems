@@ -9,12 +9,7 @@ class Solution {
         for(int i=0;i<n;i++){
             s.add(h.get(arr[i]));
         }
-        if(h.size()==s.size()){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return h.size()==s.size();
         // ArrayList<Integer> a=new ArrayList<>();
         // for(int i=0;i<n;i++){
         //     a[arr[i]]++;
