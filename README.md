@@ -35,4 +35,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0658-find-k-closest-elements) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sivaharish51/leetcode-problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sivaharish51/leetcode-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
