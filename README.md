@@ -9,3 +9,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/sivaharish51/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/sivaharish51/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+<!---LeetCode Topics End-->
