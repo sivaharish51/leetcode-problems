@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/sivaharish51/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [2447-merge-similar-items](https://github.com/sivaharish51/leetcode-problems/tree/master/2447-merge-similar-items) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/sivaharish51/leetcode-problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +33,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/sivaharish51/leetcode-problems/tree/master/2447-merge-similar-items) |
+## Prefix Sum
+|  |
+| ------- |
+| [3731-sum-of-variable-length-subarrays](https://github.com/sivaharish51/leetcode-problems/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
