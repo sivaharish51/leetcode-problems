@@ -1,24 +1,25 @@
 class Solution {
     public int maxDifference(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
+       int n=s.length();
+       Map<Character,Integer> m=new HashMap<>();
+       for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+            m.put(ch,m.getOrDefault(ch,0)+1);
+       }   
 
-        for(char c : s.toCharArray()){
-            map.put(c, map.getOrDefault(c, 0) + 1);
-        }
-        int minEven = 100;
-
-        int maxOdd = 0;
-
-        for(char key : map.keySet()){
-            int n = map.get(key);
-            if(n % 2 == 0){
-                if(n < minEven) minEven=n;
+       int e=100,o=Integer.MIN_VALUE;
+       for(int fre:m.values()){
+            if(fre%2==0){
+                if(fre<e) e=fre;
             }
             else{
-                if(n > maxOdd) maxOdd=n;
+                if(fre>o) o=fre;
             }
-        }
-        return maxOdd - minEven;
-        
+       }
+    //    System.out.print(e);
+    //    System.out.print(o);
+    // if (e == Integer.MIN_VALUE) e=0;
+    // if (o== Integer.MIN_VALUE) o=0;
+       return o-e;
     }
 }
