@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/sivaharish51/leetcode-problems/tree/master/2447-merge-similar-items) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +39,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3731-sum-of-variable-length-subarrays](https://github.com/sivaharish51/leetcode-problems/tree/master/3731-sum-of-variable-length-subarrays) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
