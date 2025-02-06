@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/sivaharish51/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+| [1364-tuple-with-same-product](https://github.com/sivaharish51/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2447-merge-similar-items](https://github.com/sivaharish51/leetcode-problems/tree/master/2447-merge-similar-items) |
 | [3427-special-array-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3427-special-array-ii) |
@@ -29,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/sivaharish51/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivaharish51/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2447-merge-similar-items](https://github.com/sivaharish51/leetcode-problems/tree/master/2447-merge-similar-items) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -53,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/sivaharish51/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivaharish51/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
