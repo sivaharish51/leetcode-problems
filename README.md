@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sivaharish51/leetcode-problems/tree/master/0031-next-permutation) |
 | [0747-min-cost-climbing-stairs](https://github.com/sivaharish51/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1364-tuple-with-same-product](https://github.com/sivaharish51/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -72,4 +73,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3264-maximum-points-after-enemy-battles](https://github.com/sivaharish51/leetcode-problems/tree/master/3264-maximum-points-after-enemy-battles) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/sivaharish51/leetcode-problems/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
