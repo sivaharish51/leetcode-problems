@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Game Theory
 |  |
@@ -31,4 +32,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+## String
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->
