@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+<!---LeetCode Topics End-->
