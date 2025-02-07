@@ -23,4 +23,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Array
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
