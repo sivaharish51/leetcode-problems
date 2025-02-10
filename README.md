@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sivaharish51/leetcode-problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sivaharish51/leetcode-problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3568-find-the-key-of-the-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/3568-find-the-key-of-the-numbers) |
 ## Simulation
 |  |
@@ -46,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sivaharish51/leetcode-problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Hash Table
 |  |
 | ------- |
