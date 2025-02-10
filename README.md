@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sivaharish51/leetcode-problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3568-find-the-key-of-the-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/3568-find-the-key-of-the-numbers) |
@@ -30,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
@@ -45,11 +47,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sivaharish51/leetcode-problems/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
 | ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Bit Manipulation
 |  |
