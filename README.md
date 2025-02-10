@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Enumeration
 |  |
 | ------- |
@@ -77,4 +78,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 <!---LeetCode Topics End-->
