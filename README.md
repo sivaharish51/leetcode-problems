@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/sivaharish51/leetcode-problems/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Design
 |  |
 | ------- |
