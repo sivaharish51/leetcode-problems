@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -60,11 +61,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Counting
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Bit Manipulation
 |  |
 | ------- |
