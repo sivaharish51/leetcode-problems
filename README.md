@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -100,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0279-perfect-squares](https://github.com/sivaharish51/leetcode-problems/tree/master/0279-perfect-squares) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Greedy
@@ -109,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Breadth-First Search
 |  |
