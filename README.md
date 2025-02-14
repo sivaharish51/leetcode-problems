@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/sivaharish51/leetcode-problems/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -111,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/sivaharish51/leetcode-problems/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/sivaharish51/leetcode-problems/tree/master/0279-perfect-squares) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
