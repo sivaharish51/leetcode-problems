@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3567-convert-date-to-binary](https://github.com/sivaharish51/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -52,10 +53,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -140,4 +143,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
