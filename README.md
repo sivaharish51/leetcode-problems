@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String
 |  |
@@ -85,12 +87,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
