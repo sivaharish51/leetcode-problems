@@ -89,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/sivaharish51/leetcode-problems/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Design
@@ -160,4 +161,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
