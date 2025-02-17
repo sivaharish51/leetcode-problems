@@ -79,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0091-decode-ways](https://github.com/sivaharish51/leetcode-problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
+| [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
@@ -88,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
+| [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [2434-design-a-number-container-system](https://github.com/sivaharish51/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -97,6 +99,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
@@ -181,6 +184,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search
 |  |
