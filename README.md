@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivaharish51/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -173,10 +174,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivaharish51/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivaharish51/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Number Theory
