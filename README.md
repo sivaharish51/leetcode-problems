@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/sivaharish51/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
@@ -31,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -180,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/0258-add-digits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
