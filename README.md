@@ -84,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
 | [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sivaharish51/leetcode-problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -131,6 +132,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -147,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Matrix
 |  |
@@ -191,6 +194,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search
 |  |
