@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivaharish51/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2902-max-pair-sum-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2902-max-pair-sum-in-an-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -102,6 +103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2434-design-a-number-container-system](https://github.com/sivaharish51/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2902-max-pair-sum-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2902-max-pair-sum-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
