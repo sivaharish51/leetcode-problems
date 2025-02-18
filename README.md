@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3644-minimum-positive-sum-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sivaharish51/leetcode-problems/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/sivaharish51/leetcode-problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/sivaharish51/leetcode-problems/tree/master/3779-eat-pizzas) |
 ## Enumeration
 |  |
@@ -152,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/sivaharish51/leetcode-problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/sivaharish51/leetcode-problems/tree/master/3779-eat-pizzas) |
 ## Matrix
 |  |
@@ -214,5 +216,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/sivaharish51/leetcode-problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/sivaharish51/leetcode-problems/tree/master/3779-eat-pizzas) |
 <!---LeetCode Topics End-->
