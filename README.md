@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0063-unique-paths-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
+| [0485-max-consecutive-ones](https://github.com/sivaharish51/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/sivaharish51/leetcode-problems/tree/master/0554-brick-wall) |
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
