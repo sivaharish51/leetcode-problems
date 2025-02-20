@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0258-add-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/sivaharish51/leetcode-problems/tree/master/0279-perfect-squares) |
+| [0371-sum-of-two-integers](https://github.com/sivaharish51/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/sivaharish51/leetcode-problems/tree/master/0400-nth-digit) |
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
@@ -123,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/sivaharish51/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/sivaharish51/leetcode-problems/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Design
