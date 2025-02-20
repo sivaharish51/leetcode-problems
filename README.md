@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0258-add-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/sivaharish51/leetcode-problems/tree/master/0279-perfect-squares) |
+| [0400-nth-digit](https://github.com/sivaharish51/leetcode-problems/tree/master/0400-nth-digit) |
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -213,6 +214,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0400-nth-digit](https://github.com/sivaharish51/leetcode-problems/tree/master/0400-nth-digit) |
 ## Tree
 |  |
 | ------- |
