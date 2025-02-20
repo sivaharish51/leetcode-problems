@@ -58,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivaharish51/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2107-find-unique-binary-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2902-max-pair-sum-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2902-max-pair-sum-in-an-array) |
@@ -89,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
 | [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
@@ -100,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0554-brick-wall](https://github.com/sivaharish51/leetcode-problems/tree/master/0554-brick-wall) |
 | [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/sivaharish51/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -203,6 +206,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search
