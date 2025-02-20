@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/sivaharish51/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/sivaharish51/leetcode-problems/tree/master/0554-brick-wall) |
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
+| [0943-sum-of-subarray-minimums](https://github.com/sivaharish51/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivaharish51/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -144,6 +145,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/sivaharish51/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
@@ -156,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/sivaharish51/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
+| [0943-sum-of-subarray-minimums](https://github.com/sivaharish51/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Greedy
@@ -236,4 +239,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sivaharish51/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/sivaharish51/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
