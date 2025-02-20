@@ -214,6 +214,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0374-guess-number-higher-or-lower](https://github.com/sivaharish51/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/sivaharish51/leetcode-problems/tree/master/0400-nth-digit) |
 ## Tree
 |  |
@@ -229,4 +230,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/sivaharish51/leetcode-problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/sivaharish51/leetcode-problems/tree/master/3779-eat-pizzas) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sivaharish51/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
