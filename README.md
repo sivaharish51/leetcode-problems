@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/sivaharish51/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -161,12 +162,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0909-stone-game](https://github.com/sivaharish51/leetcode-problems/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/sivaharish51/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/1240-stone-game-ii) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/sivaharish51/leetcode-problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/sivaharish51/leetcode-problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/sivaharish51/leetcode-problems/tree/master/3779-eat-pizzas) |
@@ -236,6 +239,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/sivaharish51/leetcode-problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/sivaharish51/leetcode-problems/tree/master/3779-eat-pizzas) |
 ## Interactive
