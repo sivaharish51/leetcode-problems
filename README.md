@@ -91,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0091-decode-ways](https://github.com/sivaharish51/leetcode-problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/sivaharish51/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sivaharish51/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivaharish51/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2107-find-unique-binary-string) |
@@ -225,10 +226,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/sivaharish51/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sivaharish51/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/sivaharish51/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -243,4 +246,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/sivaharish51/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+## Depth-First Search
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/sivaharish51/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
