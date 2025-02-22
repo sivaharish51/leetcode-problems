@@ -101,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sivaharish51/leetcode-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3447-clear-digits) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/sivaharish51/leetcode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sivaharish51/leetcode-problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/sivaharish51/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 ## Hash Table
@@ -171,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0179-largest-number](https://github.com/sivaharish51/leetcode-problems/tree/master/0179-largest-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/sivaharish51/leetcode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaharish51/leetcode-problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
