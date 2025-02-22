@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2902-max-pair-sum-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2902-max-pair-sum-in-an-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
