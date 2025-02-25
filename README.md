@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0416-partition-equal-subset-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3463-alternating-groups-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3463-alternating-groups-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sivaharish51/leetcode-problems/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Tree
@@ -73,4 +74,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
