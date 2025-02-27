@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/sivaharish51/leetcode-problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sivaharish51/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sivaharish51/leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
