@@ -52,12 +52,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -108,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sivaharish51/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
