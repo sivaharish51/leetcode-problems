@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
+| [3379-score-of-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
