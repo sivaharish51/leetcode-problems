@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivaharish51/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sivaharish51/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/sivaharish51/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -155,6 +156,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/sivaharish51/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Brainteaser
 |  |
 | ------- |
