@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivaharish51/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3379-score-of-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3379-score-of-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
@@ -89,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
