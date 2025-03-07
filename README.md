@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivaharish51/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3312-number-of-changing-keys](https://github.com/sivaharish51/leetcode-problems/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
