@@ -1,29 +1,14 @@
 class Solution {
     public int minimumPushes(String word) {
-        int n = word.length();
-
-        // Calculate the number of complete 8-letter rounds
-        int completeRound = n / 8;
-
-        // Calculate the number of remaining letters after complete rounds
-        int remainingLetters = n % 8;
-
-        // finding no of times keys are pressed in complete rounds
-        int round = 1;
-        int keyPressed = 0;
-
-        while(completeRound > 0) {
-
-            keyPressed += 8*round;
-
-            // update 
-            completeRound--;
-            round++;
+        int n=word.length()/8;
+        int m=word.length()%8;
+        int r=1,p=0;
+        while(n>0){
+            p+=8*r;
+            r++;
+            n--;
         }
-
-        // finding no of times keys are pressed for remaining letters
-        keyPressed += remainingLetters * round;
-
-        return keyPressed;
+        p+=m*r;
+        return p;
     }
 }
