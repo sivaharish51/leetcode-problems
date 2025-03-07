@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3321-type-of-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -130,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2649-count-total-number-of-colored-cells](https://github.com/sivaharish51/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3321-type-of-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sivaharish51/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sivaharish51/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -197,6 +199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sivaharish51/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [3321-type-of-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3321-type-of-triangle) |
 ## Brainteaser
 |  |
 | ------- |
