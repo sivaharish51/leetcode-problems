@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -93,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -202,4 +204,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sivaharish51/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
