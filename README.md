@@ -117,6 +117,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sivaharish51/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sivaharish51/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sivaharish51/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
@@ -195,4 +196,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/sivaharish51/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
