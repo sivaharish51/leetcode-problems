@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3311-ant-on-the-boundary](https://github.com/sivaharish51/leetcode-problems/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3321-type-of-triangle) |
+| [3330-modify-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -169,6 +170,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
