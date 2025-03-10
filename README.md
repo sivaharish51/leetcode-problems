@@ -80,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3408-count-the-number-of-special-characters-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -157,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivaharish51/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
 | ------- |
