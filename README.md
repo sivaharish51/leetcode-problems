@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3321-type-of-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3330-modify-the-matrix) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -191,6 +192,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2271-rearrange-array-elements-by-sign](https://github.com/sivaharish51/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3311-ant-on-the-boundary](https://github.com/sivaharish51/leetcode-problems/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Recursion
