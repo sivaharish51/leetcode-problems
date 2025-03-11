@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sivaharish51/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/sivaharish51/leetcode-problems/tree/master/3311-ant-on-the-boundary) |
@@ -196,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivaharish51/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sivaharish51/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/sivaharish51/leetcode-problems/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -223,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sivaharish51/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sivaharish51/leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Brainteaser
@@ -246,4 +249,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3324-split-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
