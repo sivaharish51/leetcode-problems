@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sivaharish51/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/sivaharish51/leetcode-problems/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -100,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/sivaharish51/leetcode-problems/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 ## Stack
 |  |
 | ------- |
