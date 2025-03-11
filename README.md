@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sivaharish51/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivaharish51/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -221,6 +222,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0334-increasing-triplet-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sivaharish51/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sivaharish51/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sivaharish51/leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
