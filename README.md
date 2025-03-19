@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sivaharish51/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -146,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sivaharish51/leetcode-problems/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Enumeration
 |  |
@@ -174,6 +176,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3311-ant-on-the-boundary](https://github.com/sivaharish51/leetcode-problems/tree/master/3311-ant-on-the-boundary) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
@@ -184,6 +187,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivaharish51/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [3463-alternating-groups-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
@@ -278,4 +282,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
