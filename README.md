@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3330-modify-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sivaharish51/leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sivaharish51/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/sivaharish51/leetcode-problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -80,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sivaharish51/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sivaharish51/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sivaharish51/leetcode-problems/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Enumeration
@@ -286,4 +289,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sivaharish51/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
