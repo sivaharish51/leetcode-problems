@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/sivaharish51/leetcode-problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3430-count-days-without-meetings](https://github.com/sivaharish51/leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -260,6 +261,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sivaharish51/leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
+| [3430-count-days-without-meetings](https://github.com/sivaharish51/leetcode-problems/tree/master/3430-count-days-without-meetings) |
 ## Brainteaser
 |  |
 | ------- |
