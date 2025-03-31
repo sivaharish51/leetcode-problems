@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2478-longest-nice-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivaharish51/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sivaharish51/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -259,6 +260,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0334-increasing-triplet-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sivaharish51/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
+| [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sivaharish51/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sivaharish51/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -270,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sivaharish51/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sivaharish51/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivaharish51/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sivaharish51/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
@@ -307,6 +310,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
 ## Queue
 |  |
