@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivaharish51/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sivaharish51/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
