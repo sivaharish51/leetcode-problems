@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
@@ -121,6 +122,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
@@ -137,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
 | [2128-reverse-prefix-of-word](https://github.com/sivaharish51/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sivaharish51/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -221,6 +224,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -262,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sivaharish51/leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sivaharish51/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
