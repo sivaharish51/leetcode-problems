@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/sivaharish51/leetcode-problems/tree/master/0605-can-place-flowers) |
@@ -120,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
