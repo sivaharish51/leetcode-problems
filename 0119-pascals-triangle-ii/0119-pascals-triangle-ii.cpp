@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> getRow(int n) {
-        vector<vector<int>> a;
+        vector<int> a(1);
         for(int i=0;i<=n;i++){
             vector<int> a1;
             for(int j=0;j<=i;j++){
                 if(j==0 || j==i) a1.push_back(1);
                 else{
-                    a1.push_back(a[i-1][j-1]+a[i-1][j]);
+                    a1.push_back(a[j-1]+a[j]);
                 }
             }
-            a.push_back(a1);
+            a=(a1);
         }
-        return a[n];
+        return a;
     }
 };
