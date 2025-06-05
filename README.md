@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/sivaharish51/leetcode-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/sivaharish51/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/sivaharish51/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -154,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivaharish51/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
