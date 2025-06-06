@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0135-candy](https://github.com/sivaharish51/leetcode-problems/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/sivaharish51/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sivaharish51/leetcode-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -215,6 +216,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sivaharish51/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sivaharish51/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -258,6 +260,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sivaharish51/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
 ## Simulation
 |  |
