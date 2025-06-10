@@ -131,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3462-vowels-game-in-a-string](https://github.com/sivaharish51/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3324-split-the-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
