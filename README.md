@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/sivaharish51/leetcode-problems/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/sivaharish51/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
@@ -114,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivaharish51/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -136,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sivaharish51/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -163,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -373,4 +377,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivaharish51/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
