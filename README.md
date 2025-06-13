@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/sivaharish51/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sivaharish51/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/sivaharish51/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sivaharish51/leetcode-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0410-split-array-largest-sum) |
@@ -144,6 +145,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0152-maximum-product-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sivaharish51/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/sivaharish51/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sivaharish51/leetcode-problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0410-split-array-largest-sum) |
