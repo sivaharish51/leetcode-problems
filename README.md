@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -145,6 +146,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -314,6 +316,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/sivaharish51/leetcode-problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0410-split-array-largest-sum) |
