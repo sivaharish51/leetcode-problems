@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -357,6 +358,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivaharish51/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -412,4 +414,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sivaharish51/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
