@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0004-median-of-two-sorted-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
@@ -129,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -187,6 +189,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -340,6 +343,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
