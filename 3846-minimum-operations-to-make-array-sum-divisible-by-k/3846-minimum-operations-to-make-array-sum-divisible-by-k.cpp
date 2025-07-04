@@ -6,7 +6,6 @@ public:
         for(int i=0;i<n;i++){
             s+=nums[i];
         }
-        if(s<k) return s;
-        else return s%k;
+         return s%k;
     }
 };
