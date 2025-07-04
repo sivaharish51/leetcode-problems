@@ -106,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivaharish51/leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sivaharish51/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sivaharish51/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sivaharish51/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sivaharish51/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
