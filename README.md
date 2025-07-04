@@ -257,6 +257,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sivaharish51/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sivaharish51/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/sivaharish51/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sivaharish51/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
 |  |
