@@ -154,6 +154,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -375,6 +376,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3334-apple-redistribution-into-boxes](https://github.com/sivaharish51/leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/sivaharish51/leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivaharish51/leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -462,4 +464,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
