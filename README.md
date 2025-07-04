@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sivaharish51/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/sivaharish51/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivaharish51/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sivaharish51/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -139,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivaharish51/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/sivaharish51/leetcode-problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2128-reverse-prefix-of-word](https://github.com/sivaharish51/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivaharish51/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sivaharish51/leetcode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/sivaharish51/leetcode-problems/tree/master/3194-find-words-containing-character) |
@@ -200,6 +202,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivaharish51/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivaharish51/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -398,6 +401,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sivaharish51/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
