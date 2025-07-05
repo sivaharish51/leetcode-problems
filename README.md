@@ -262,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/sivaharish51/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sivaharish51/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -379,6 +380,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3430-count-days-without-meetings](https://github.com/sivaharish51/leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivaharish51/leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Brainteaser
 |  |
 | ------- |
