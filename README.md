@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivaharish51/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -203,6 +204,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivaharish51/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -406,6 +408,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
