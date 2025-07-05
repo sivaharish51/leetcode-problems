@@ -6,11 +6,16 @@ public:
             if(n%10>a){
                 b=a;
                 a=n%10;
+                n=n/10;
             }
             else if(n%10>b ){
                 b=n%10;
+                n=n/10;
             }
-            n=n/10;
+            else{
+                n=n/10;
+                continue;
+            }
         }
         return a*b;
     }
