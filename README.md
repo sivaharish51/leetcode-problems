@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivaharish51/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sivaharish51/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
@@ -352,6 +353,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/sivaharish51/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sivaharish51/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sivaharish51/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sivaharish51/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -366,6 +368,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0350-intersection-of-two-arrays-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sivaharish51/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sivaharish51/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sivaharish51/leetcode-problems/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -422,6 +425,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sivaharish51/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sivaharish51/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2728-sum-in-a-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/sivaharish51/leetcode-problems/tree/master/3226-minimum-number-game) |
