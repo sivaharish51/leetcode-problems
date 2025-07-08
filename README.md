@@ -264,6 +264,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3830-find-closest-person](https://github.com/sivaharish51/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sivaharish51/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/sivaharish51/leetcode-problems/tree/master/3859-maximum-product-of-two-digits) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/sivaharish51/leetcode-problems/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Prefix Sum
 |  |
 | ------- |
