@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0045-jump-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -116,6 +117,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sivaharish51/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -136,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -307,6 +310,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
 | [1677-matrix-diagonal-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sivaharish51/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2728-sum-in-a-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/2728-sum-in-a-matrix) |
@@ -478,4 +482,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
