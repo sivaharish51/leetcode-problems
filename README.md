@@ -160,6 +160,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3617-find-the-original-typed-string-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/sivaharish51/leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +339,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/sivaharish51/leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Recursion
 |  |
 | ------- |
