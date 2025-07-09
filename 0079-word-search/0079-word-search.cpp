@@ -9,6 +9,7 @@ public:
         bool r=search(i,j+1,board,word,n+1);
         bool t=search(i-1,j,board,word,n+1);
         bool b=search(i+1,j,board,word,n+1);
+        n--;
         board[i][j]=ch;
         return l||r||t||b;
     }
