@@ -10,7 +10,7 @@ public:
         } 
         int s=0;
         for(auto i:mp){
-            if(i.first>0){
+            if(i.first>=0){
                 s+=i.first;
             }
         }
