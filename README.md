@@ -148,6 +148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0415-add-strings](https://github.com/sivaharish51/leetcode-problems/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/sivaharish51/leetcode-problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/sivaharish51/leetcode-problems/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/sivaharish51/leetcode-problems/tree/master/0742-to-lower-case) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sivaharish51/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivaharish51/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
