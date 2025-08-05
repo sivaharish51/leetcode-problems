@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sivaharish51/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sivaharish51/leetcode-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sivaharish51/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/sivaharish51/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/sivaharish51/leetcode-problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
@@ -127,11 +128,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sivaharish51/leetcode-problems/tree/master/0200-number-of-islands) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sivaharish51/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sivaharish51/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sivaharish51/leetcode-problems/tree/master/0322-coin-change) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sivaharish51/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sivaharish51/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -340,6 +343,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sivaharish51/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/sivaharish51/leetcode-problems/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
@@ -484,6 +488,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sivaharish51/leetcode-problems/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/sivaharish51/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sivaharish51/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
