@@ -116,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sivaharish51/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sivaharish51/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Tree
 |  |
@@ -369,6 +370,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/sivaharish51/leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Recursion
 |  |
@@ -445,6 +447,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivaharish51/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -523,4 +526,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0077-combinations](https://github.com/sivaharish51/leetcode-problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
