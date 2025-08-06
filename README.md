@@ -119,6 +119,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sivaharish51/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sivaharish51/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Tree
 |  |
@@ -455,6 +456,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -538,8 +540,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
