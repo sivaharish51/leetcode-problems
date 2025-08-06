@@ -7,8 +7,9 @@ public:
         int l=0,r=1;
         while(l<n&&r<n){
             if(nums[r]-nums[l]==1){
+                
+                ans=max(ans,r-l+1);
                 r++;
-                ans=max(ans,r-l);
             }
             else if(nums[r]-nums[l]==0){
                 r++;
