@@ -115,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3533-snake-in-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sivaharish51/leetcode-problems/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3643-zero-array-transformation-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sivaharish51/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivaharish51/leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sivaharish51/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -213,6 +214,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivaharish51/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/sivaharish51/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/sivaharish51/leetcode-problems/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sivaharish51/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sivaharish51/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Design
 |  |
 | ------- |
