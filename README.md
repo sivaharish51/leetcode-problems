@@ -275,6 +275,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/sivaharish51/leetcode-problems/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sivaharish51/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/2478-longest-nice-subarray) |
@@ -289,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sivaharish51/leetcode-problems/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/sivaharish51/leetcode-problems/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/sivaharish51/leetcode-problems/tree/master/0935-orderly-queue) |
@@ -404,6 +406,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sivaharish51/leetcode-problems/tree/master/0231-power-of-two) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sivaharish51/leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
