@@ -7,8 +7,8 @@ public:
     
     void push(int x) {
         q.push(x);
-        int s=q.size();
-        while(--s){
+        int s=q.size()-1;
+        while(s--){
             q.push(q.front());
             q.pop();
         }
