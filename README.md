@@ -231,6 +231,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/sivaharish51/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sivaharish51/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/sivaharish51/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -387,6 +388,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sivaharish51/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/sivaharish51/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sivaharish51/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [3516-design-neighbor-sum-service](https://github.com/sivaharish51/leetcode-problems/tree/master/3516-design-neighbor-sum-service) |
@@ -527,6 +529,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sivaharish51/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/sivaharish51/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
