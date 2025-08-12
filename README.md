@@ -221,6 +221,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivaharish51/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/sivaharish51/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sivaharish51/leetcode-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/sivaharish51/leetcode-problems/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sivaharish51/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
