@@ -171,6 +171,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0657-robot-return-to-origin](https://github.com/sivaharish51/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/sivaharish51/leetcode-problems/tree/master/0742-to-lower-case) |
+| [0874-backspace-string-compare](https://github.com/sivaharish51/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0935-orderly-queue](https://github.com/sivaharish51/leetcode-problems/tree/master/0935-orderly-queue) |
 | [1170-shortest-common-supersequence](https://github.com/sivaharish51/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sivaharish51/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -232,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sivaharish51/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/sivaharish51/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0874-backspace-string-compare](https://github.com/sivaharish51/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sivaharish51/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/sivaharish51/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -358,6 +360,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0350-intersection-of-two-arrays-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/sivaharish51/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sivaharish51/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2128-reverse-prefix-of-word](https://github.com/sivaharish51/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -400,6 +403,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0495-teemo-attacking](https://github.com/sivaharish51/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sivaharish51/leetcode-problems/tree/master/0657-robot-return-to-origin) |
+| [0874-backspace-string-compare](https://github.com/sivaharish51/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivaharish51/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sivaharish51/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
