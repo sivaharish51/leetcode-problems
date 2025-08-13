@@ -213,6 +213,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sivaharish51/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sivaharish51/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sivaharish51/leetcode-problems/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -300,6 +301,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0231-power-of-two](https://github.com/sivaharish51/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sivaharish51/leetcode-problems/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/sivaharish51/leetcode-problems/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
