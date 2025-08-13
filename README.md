@@ -299,6 +299,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sivaharish51/leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sivaharish51/leetcode-problems/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/sivaharish51/leetcode-problems/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivaharish51/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -421,6 +422,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sivaharish51/leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sivaharish51/leetcode-problems/tree/master/0326-power-of-three) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sivaharish51/leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
