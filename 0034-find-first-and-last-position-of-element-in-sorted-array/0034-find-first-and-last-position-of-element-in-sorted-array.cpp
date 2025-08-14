@@ -7,7 +7,7 @@ public:
             if(nums[i]==target) {
                 if(v[0]==-1){
                     v[0]=i;
-                    v[1]=i;
+                    //v[1]=i;
                 } 
                 else{
                     v[1]=i;
