@@ -181,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivaharish51/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sivaharish51/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/sivaharish51/leetcode-problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2032-largest-odd-number-in-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/sivaharish51/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -313,6 +314,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sivaharish51/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sivaharish51/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sivaharish51/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sivaharish51/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -451,6 +453,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0917-boats-to-save-people](https://github.com/sivaharish51/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sivaharish51/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sivaharish51/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2681-put-marbles-in-bags](https://github.com/sivaharish51/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sivaharish51/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sivaharish51/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
