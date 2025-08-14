@@ -182,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/sivaharish51/leetcode-problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2128-reverse-prefix-of-word](https://github.com/sivaharish51/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sivaharish51/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivaharish51/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sivaharish51/leetcode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/sivaharish51/leetcode-problems/tree/master/3194-find-words-containing-character) |
