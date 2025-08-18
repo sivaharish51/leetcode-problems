@@ -5,7 +5,7 @@ public:
         int r=n;
         while(l<=r){
             long double mid=l+(r-l)/2;
-            long double v=(mid*mid)/2+(mid/2);
+            long double v=(mid*(mid+1))/2;
             if(v>n){
                 r=mid-1;
             }
