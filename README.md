@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/sivaharish51/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/sivaharish51/leetcode-problems/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/sivaharish51/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/sivaharish51/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sivaharish51/leetcode-problems/tree/master/0605-can-place-flowers) |
@@ -392,6 +393,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/sivaharish51/leetcode-problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/sivaharish51/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/sivaharish51/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sivaharish51/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
@@ -416,6 +418,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/sivaharish51/leetcode-problems/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/sivaharish51/leetcode-problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/sivaharish51/leetcode-problems/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/sivaharish51/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sivaharish51/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/sivaharish51/leetcode-problems/tree/master/0874-backspace-string-compare) |
