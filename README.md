@@ -166,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/sivaharish51/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
@@ -255,6 +256,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -311,6 +313,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/sivaharish51/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sivaharish51/leetcode-problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/sivaharish51/leetcode-problems/tree/master/0343-integer-break) |
