@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0045-jump-game-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sivaharish51/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sivaharish51/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
@@ -389,6 +390,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sivaharish51/leetcode-problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sivaharish51/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -515,6 +517,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivaharish51/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivaharish51/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
