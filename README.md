@@ -77,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1813-maximum-erasure-value](https://github.com/sivaharish51/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sivaharish51/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/sivaharish51/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sivaharish51/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sivaharish51/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sivaharish51/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sivaharish51/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -355,6 +356,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0724-find-pivot-index](https://github.com/sivaharish51/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sivaharish51/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sivaharish51/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3311-ant-on-the-boundary](https://github.com/sivaharish51/leetcode-problems/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivaharish51/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -435,6 +437,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0657-robot-return-to-origin](https://github.com/sivaharish51/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/sivaharish51/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/sivaharish51/leetcode-problems/tree/master/1048-clumsy-factorial) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sivaharish51/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivaharish51/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sivaharish51/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2728-sum-in-a-matrix](https://github.com/sivaharish51/leetcode-problems/tree/master/2728-sum-in-a-matrix) |
@@ -537,6 +540,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0713-subarray-product-less-than-k](https://github.com/sivaharish51/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivaharish51/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivaharish51/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sivaharish51/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivaharish51/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sivaharish51/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
